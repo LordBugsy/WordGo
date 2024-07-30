@@ -1,5 +1,7 @@
 # WordGo!
 
+![WordGo](https://i.gyazo.com/4faefeb5cdd973035e2b86b8790a3fdf.png)
+
 WordGo! is a fun and engaging word puzzle game inspired by Wordle. Players must guess the hidden word within a limited number of tries, with feedback provided on each guess.
 
 ## Description
